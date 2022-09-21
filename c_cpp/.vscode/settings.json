@@ -1,0 +1,13 @@
+{
+    // General Settings
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.rulers": [
+        80
+    ],
+    "editor.tabSize": 2,
+    "editor.insertSpaces": false,
+    "editor.formatOnSave": true,
+    // C/C++ Settings
+    "C_Cpp.clang_format_fallbackStyle": "google"
+}
