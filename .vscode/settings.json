@@ -1,0 +1,10 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.formatOnSave": true,
+    "omnisharp.enableEditorConfigSupport": true,
+    // "editor.codeActionsOnSave": {
+    //     "source.fixAll": true,
+    //     "source.organizeImports": true,
+    // },
+}
