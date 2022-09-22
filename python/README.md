@@ -10,5 +10,12 @@ source .env/bin/activate
 pip install pylint black mypy
 ```
 
+# In VSCode
+
+```console
+Ctrl + Shift + P
+Python: Select Interpreter  # choose python from .env
+```
+
 # Settings
 - [.vscode/settings.json](.vscode/settings.json)

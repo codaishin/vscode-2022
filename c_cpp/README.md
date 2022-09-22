@@ -6,7 +6,7 @@
 # Dependencies
 
 ```console
-sudo pacman -Sy gcc gdb
+sudo pacman -Sy gcc gdb clang
 ```
 
 # Settings
