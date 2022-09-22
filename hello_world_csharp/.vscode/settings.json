@@ -1,0 +1,17 @@
+{
+	// General Settings
+	"files.trimTrailingWhitespace": true,
+	"files.insertFinalNewline": true,
+	"editor.formatOnSave": true,
+	"editor.rulers": [
+		80
+	],
+	"editor.tabSize": 2,
+	"editor.insertSpaces": false,
+	// C# Settings
+	"omnisharp.enableEditorConfigSupport": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true,
+		"source.organizeImports": true,
+	},
+}
